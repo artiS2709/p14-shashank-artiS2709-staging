@@ -5,11 +5,11 @@ Protocol stacks are a layered collection of protocols that work together to prov
 
 There are five layers in the internet protocol stack:
 
-Application Layer
-Transport Layer
-Network Layer
-Link Layer
-Physical Layer
+1.<h4>Application Layer</h4>
+2.<h4>Transport Layer</h4>
+3.<h4>Network Layer</h4>
+4.<h4>Link Layer</h4>
+5.<h4>Physical Layer</h4>
 
 1. <h3>Application Layer :</h3> This layer is responsible for communication between applications running on two different end systems. A message or data transferred from one end is readable for the corresponding application on the other end. These applications include web browsers, email clients, etc.At the application layer, the data being transferred is called a message.
    The protocols used at the application layer include:
