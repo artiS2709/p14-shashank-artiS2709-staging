@@ -1,6 +1,6 @@
-Ques5. What is SEO (Search Engine Optimization), and how can web developers optimize their websites for better search engine rankings?
+<h3>Ques5. What is SEO (Search Engine Optimization), and how can web developers optimize their websites for better search engine rankings?</h3>
 
-Answer:
+<h4>Answer:</h4>
 SEO, or Search Engine Optimization, is the practice of optimizing a website or web page to improve its visibility and ranking in search engine results pages (SERPs).
 To promote your website digitally, we must ensure the our website comes in few of the top results of a search engine. The concept to optimize and achieve the top position is termed as search engine optimization.
 

@@ -1,9 +1,9 @@
-Ques4. What is scaling, and why is it important for web applications? How does scaling differ for vertical and horizontal scaling?
+<h3>Ques4. What is scaling, and why is it important for web applications? How does scaling differ for vertical and horizontal scaling?</h3>
 
-Answer:
+<h4>Answer:</h4>
 As day by day our web applications gains popularity, it may be possible that we may reach from 10 users to 100000000 users. At this time of increased users or traffic it becomes very tough for one machine to handle stuff. Here comes the term Scalability. It means for increasing our web app potential we need to scale it.
 
-Scaling: It refers to the ability of a system, network, or application to handle an increasing workload or accommodate growth in terms of users, traffic, or data. It involves adjusting the resources and infrastructure of a system to maintain optimal performance as demand increases.
+<h4>Scaling:</h4> It refers to the ability of a system, network, or application to handle an increasing workload or accommodate growth in terms of users, traffic, or data. It involves adjusting the resources and infrastructure of a system to maintain optimal performance as demand increases.
 
 Importance : Scaling is crucial for websites and applications that experience high traffic or rapid growth. It ensures that the system can handle increased load and maintain responsiveness, preventing downtime or performance degradation.
 

@@ -1,6 +1,6 @@
-Ques3. What is web hosting, and what are the different types of hosting services available for websites?
+<h3>Ques3. What is web hosting, and what are the different types of hosting services available for websites?</h3>
 
-Answer:
+<h4>Answer:</h4>
 After development of a website or webapp, we need to make it visible over the internet. For that we need to host that website. So, Web hosting is a service that allows individuals and organizations to make their websites accessible on the internet. It involves storing website files and data on a server, which is connected to the internet, and making those files available to be accessed by internet users.
 Depending on the hosting technique these servers are divided into below categories:
 
