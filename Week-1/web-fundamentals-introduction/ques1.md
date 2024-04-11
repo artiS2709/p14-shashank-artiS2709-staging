@@ -1,6 +1,6 @@
-Ques1. What is a protocol stack, and how is it used in web development?
+<h3>Ques1. What is a protocol stack, and how is it used in web development?</h3>
 
-Answers:
+<h3>Answers:</h3>
 Protocol stacks are a layered collection of protocols that work together to provide communication services. Each protocol in the stack is responsible for a specific task, and by layering them, we can create a more robust and reliable system.
 
 There are five layers in the internet protocol stack:
